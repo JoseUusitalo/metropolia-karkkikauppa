@@ -1,0 +1,3 @@
+Metropolia Ammattikorkeakoulun 1. vuoden opiskelijaryhmän (A. S., A-L. S. & minä) 2015-04-20—2015-05-11 toteuttama karkkikauppasimulaatio Java-ohjelmointiprojekti. Käyttöliittymä on tehty Swing-kirjastolla ja projektin rakenne mukailee MVC-arkkitehtuuria ja olio-ohjelmointia.
+
+A candy store simulation Java project developed by a group of 1st year students (A. S., A-L. S. & me) of Metropolia University of Applied Sciences during 2015-04-20—2015-05-11. The project loosely implements the MVC architecture and object-oriented programming with a graphical user interface created with Swing. Source code is only available in Finnish.
